@@ -18,7 +18,7 @@ int main() {
 		printf("D \n");
 	}
 	else {
-		printf("E \n");
+		printf("F \n");
 	}
 
 	return 0;
